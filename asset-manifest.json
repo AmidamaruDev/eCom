@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/eCom/static/css/main.5b06f862.css",
+    "main.js": "/eCom/static/js/main.bb89a28d.js",
+    "static/media/bg.jpg": "/eCom/static/media/bg.ccab30436eb5a0ae236e.jpg",
+    "index.html": "/eCom/index.html",
+    "main.5b06f862.css.map": "/eCom/static/css/main.5b06f862.css.map",
+    "main.bb89a28d.js.map": "/eCom/static/js/main.bb89a28d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b06f862.css",
+    "static/js/main.bb89a28d.js"
+  ]
+}
